@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod reference=betty su betty
+su betty
